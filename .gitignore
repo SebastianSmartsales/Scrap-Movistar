@@ -1,4 +1,4 @@
+# Sesion iniciada del scraper: contiene tokens de Microsoft (GitHub bloquea el push si se suben)
+data/sesion.json
+data/req_headers.json
 .env
-data/
-__pycache__/
-venv/

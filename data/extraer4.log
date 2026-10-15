@@ -1,0 +1,26 @@
+15:45:59 encabezados de la API renovados
+15:46:00 ⚠️ sesión vencida en el servidor (E043); se inicia sesión de nuevo
+15:46:18 encabezados de la API renovados
+15:46:19 Total según el portal: 190780; 191 páginas de 1000; se empieza en la 171
+15:46:40 página 172/191: 1000 filas (esta corrida: 1000)
+15:47:02 página 173/191: 1000 filas (esta corrida: 2000)
+15:47:24 página 174/191: 1000 filas (esta corrida: 3000)
+15:47:45 página 175/191: 1000 filas (esta corrida: 4000)
+15:48:07 página 176/191: 1000 filas (esta corrida: 5000)
+15:48:28 página 177/191: 1000 filas (esta corrida: 6000)
+15:48:49 página 178/191: 1000 filas (esta corrida: 7000)
+15:49:12 página 179/191: 1000 filas (esta corrida: 8000)
+15:49:33 página 180/191: 1000 filas (esta corrida: 9000)
+15:49:54 página 181/191: 1000 filas (esta corrida: 10000)
+15:50:16 página 182/191: 1000 filas (esta corrida: 11000)
+15:50:37 página 183/191: 1000 filas (esta corrida: 12000)
+15:50:58 página 184/191: 1000 filas (esta corrida: 13000)
+15:51:19 página 185/191: 1000 filas (esta corrida: 14000)
+15:51:40 página 186/191: 1000 filas (esta corrida: 15000)
+15:52:01 página 187/191: 1000 filas (esta corrida: 16000)
+15:52:22 página 188/191: 1000 filas (esta corrida: 17000)
+15:52:43 página 189/191: 1000 filas (esta corrida: 18000)
+15:53:04 página 190/191: 1000 filas (esta corrida: 19000)
+15:53:26 página 191/191: 781 filas (esta corrida: 19781)
+15:53:48 página 191 vacía: fin
+15:53:54 Terminado. Siguiente paso: python exportar.py

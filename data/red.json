@@ -1,0 +1,23 @@
+[
+ {
+  "url": "https://apimngr-genesis-prod.azure-api.net/api-ne-wappe-feedback-oc/v1/nps/validate?userId=645ad73941cc38489b77388d&typeVote=WEB&typeClient=AGENTE&moduleScore=TIENDA",
+  "metodo": "GET",
+  "status": 200,
+  "encabezados": {
+   "sec-ch-ua-platform": "\"Windows\"",
+   "authorization": "<oculto>",
+   "referer": "",
+   "sec-ch-ua": "\"Microsoft Edge\";v=\"155\", \"Chromium\";v=\"155\", \"Not(A:Brand\";v=\"24\"",
+   "sec-ch-ua-mobile": "?0",
+   "unica-user": "mcrisant",
+   "unica-serviceid": "550e8400-e29b-41d4-a716-446655440000",
+   "unica-pid": "550e8400-e29b-41d4-a716-446655440000",
+   "unica-application": "WAPPE",
+   "ocp-apim-subscription-key": "bc1c650949a54483b0c46335acd1dbf4",
+   "accept": "application/json, text/plain, */*",
+   "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0"
+  },
+  "post": "",
+  "respuesta": "{\"voteToday\":false,\"registerDate\":\"02/10/2026\",\"countLogin\":278053,\"actualDate\":\"14/10/2026\"}"
+ }
+]

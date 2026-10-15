@@ -1,0 +1,8 @@
+15:12:14 encabezados de la API renovados
+15:12:17 Total según el portal: 190779; 191 páginas de 1000; se empieza en la 81
+15:12:26 ⚠️ rango 81000-81999 vacío; se pide de a 100
+15:13:10 ⚠️ rango 81400-81499 vacío; se pide de a 10
+15:13:45 ⚠️ rango 81430-81439 vacío; se pide de a 1
+15:14:11 ⛔ posición 81432 ilegible: se salta
+15:16:51 página 82/191: 999 filas (esta corrida: 999)
+15:16:57 Terminado. Siguiente paso: python exportar.py

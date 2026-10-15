@@ -1,0 +1,203 @@
+[
+ {
+  "m": "GET",
+  "s": 200,
+  "u": "https://apimngr-genesis-prod.azure-api.net/api-ne-wappe-feedback-oc/v1/nps/validate?userId=645ad73941cc38489b77388d&typeVote=WEB&typeClient=AGENTE&moduleScore=TIENDA",
+  "post": "",
+  "body": "{\"voteToday\":false,\"registerDate\":\"02/10/2026\",\"countLogin\":278053,\"actualDate\":\"15/10/2026\"}",
+  "n": 93
+ },
+ {
+  "m": "POST",
+  "s": 200,
+  "u": "https://apimngr-genesis-prod.azure-api.net/user/v5/user/analytics/count",
+  "post": "{\"name\":\"\",\"numberDocument\":\"\",\"legalName\":\"\",\"userName\":\"OTROS-ONECHANNELSACCU\",\"firstName\":\"USER\",\"lastName\":\"ONECHANNELSAC\",\"surName\":\"CU\",\"originType\":\"WEBINT\",\"rolUser\":\"Agente 1ra Linea\"}",
+  "body": "",
+  "n": 0
+ },
+ {
+  "m": "GET",
+  "s": 200,
+  "u": "https://apimngr-genesis-prod.azure-api.net/api-ne-wappe-feedback-oc/v1/nps/validate?userId=645ad73941cc38489b77388d&typeVote=WEB&typeClient=AGENTE&moduleScore=TIENDA",
+  "post": "",
+  "body": "{\"voteToday\":false,\"registerDate\":\"02/10/2026\",\"countLogin\":278053,\"actualDate\":\"15/10/2026\"}",
+  "n": 93
+ },
+ {
+  "m": "GET",
+  "s": 200,
+  "u": "https://apimngr-genesis-prod.azure-api.net/master/v1/master/typeclients",
+  "post": "",
+  "body": "[{\"id\":\"5d94bedf2b431b6ef0ef47a1\",\"code\":\"EMP\",\"name\":\"EMPRESAS\",\"subTypes\":[{\"id\":null,\"code\":\"EMPCAP\",\"name\":\"EMPRESAS CAPTACIÓN\",\"subTypes\":[]},{\"id\":null,\"code\":\"EMPBRO\",\"name\":\"EMPRESAS BRONCE\",\"subTypes\":[]},{\"id\":null,\"code\":\"EMPORO\",\"name\":\"EMPRESAS ORO\",\"subTypes\":[]},{\"id\":null,\"code\":\"EMPPLA\",\"name\":\"EMPRESAS PLATA\",\"subTypes\":[]},{\"id\":null,\"code\":\"EMPPLATINO\",\"name\":\"EMPRESAS PLATINO\",\"subTypes\":[]},{\"id\":null,\"code\":\"EMPGOB\",\"name\":\"GOBIERNO MEDIO VALOR\",\"subTypes\":[]},{\"id\":null,\"code\":\"EMPGOBALTO\",\"name\":\"EMPRESAS ALTO VALOR\",\"subTypes\":[]},{\"id\":null,\"code\":\"EMPGRR\",\"name\":\"GRUPO ROMERO\",\"subTypes\":[]},{\"id\":null,\"code\":\"EMPCNA\",\"name\":\"CNA CORPORATIVO\",\"subTypes\":[]},{\"id\":null,\"code\":\"EMPNCL\",\"name\":\"NO CLIENTE\",\"subTypes\":[]},{\"id\":null,\"code\":\"DIRECCIONCOMERCIALPRIVADA\",\"name\":\"DIRECCION COMERCIAL PRIVADA\",\"subTypes\":[]},{\"id\":null,\"code\":\"EMPT\",\"name\":\"EMPRESAS T\",\"subTypes\":[]},{\"id\":null,\"code\":\"EMPM\",\"name\":\"EMPRESAS M\",\"subTypes\":[]},{\"id\":null,\"code\":\"EMPE2\",\"name\":\"EMPRESAS E2\",\"subTypes\":[]},{\"id\":null,\"code\":\"EMPE1\",\"name\":\"EMPRESAS E1\",\"subTypes\":[]}]},{\"id\":\"5d94bee02b431b6ef0ef47a2\",\"code\":\"NEG\",\"name\":\"NEGOCIOS\",\"subTypes\":[{\"id\":null,\"code\":\"NEGTOP1\",\"name\":\"TOP 1\",\"subTypes\":[]},{\"id\":null,\"code\":\"NEGTOP2\",\"name\":\"TOP 2\",\"subTypes\":[]},{\"id\":null,\"code\":\"NEGPRE\",\"name\":\"PREMIUM\",\"subTypes\":[]},{\"id\":null,\"code\":\"NEGNEW\",\"name\":\"NUEVOS NEGOCIOS\",\"subTypes\":[]},{\"id\":null,\"code\":\"NEGCNA\",\"name\":\"CNA CORPORATIVO\",\"subTypes\":[]},{\"id\":null,\"code\":\"NEGCLI\",\"name\":\"NO CLIENTE\",\"subTypes\":[]},{\"id\":null,\"code\":\"ALTOVALORLIMA\",\"name\":\"ALTO_VALOR_LIMA\",\"subTypes\":[]},{\"id\":null,\"code\":\"NEGOCIOSPREMIUMLIMA\",\"name\":\"NEGOCIOS_PREMIUM_LIMA\",\"subTypes\":[]},{\"id\":null,\"code\":\"NEGESTRATEGICASNEG\",\"name\":\"ESTRATEGICAS NEGOCIOS\",\"subTypes\":[]},{\"id\":null,\"code\":\"NEGGOBITX\",\"name\":\"GOBITX\",\"subTypes\":[]},{\"id\":null,\"code\":\"NEGEXCLUSIVOPRE\",\"name\":\"EXCLUSIVO PREMIUM\",\"subTypes\":[]},{\"id\":null,\"code\":\"NEGCLASICOPRE\",\"name\":\"CLASICO PREMIUM\",\"subTypes\":[]},{\"id\":null,\"code\":\"NEGTOP2PROVINCIA\",\"name\":\"TOP 2 PROVINCIA\",\"subTypes\":[]},{\"id\":null,\"code\":\"NEGTOP2LIMA\",\"name\":\"TOP 2 LIMA\",\"subTypes\":[]},{\"id\":null,\"code\":\"NEGOCIOSPREMIUMPROVINCIA\",\"name\":\"NEGOCIOS_PREMIUM_PROVINCIA\",\"subTypes\":[]}]},{\"id\":\"5d94bee02b431b6ef0ef47a3\",\"code\":\"NEGEMP\",\"name\":\"NEGOCIOS + EMPRESAS\",\"subTypes\":[]},{\"id\":\"60f6005fbb20300ed843ee72\",\"code\":\"BTC\",\"name\":\"B2C\",\"subTypes\":[{\"id\":null,\"code\":\"BTCPER\",\"name\":\"PERSONA\",\"subTypes\":[]},{\"id\":null,\"code\":\"BTCEMP\",\"name\":\"EMPRENDEDOR\",\"subTypes\":[]}]}]",
+  "n": 2535
+ },
+ {
+  "m": "GET",
+  "s": 200,
+  "u": "https://apimngr-genesis-prod.azure-api.net/api-ne-custom-customermanagementmme-oc/v1/customer?typedocument=RUC&numberdocument=20516521938",
+  "post": "",
+  "body": "{\"socialReason\":\"CENTRO DE COPIADOS ARTICULOS Y SERVICIOS SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA\",\"commercialReason\":\"\",\"sector\":\"\",\"subSector\":\"OTROS SERVICIOS\",\"avStreetSector\":\"\",\"streetName\":\"\",\"streetNumber\":\"\",\"department\":\"\",\"province\":\"\",\"district\":\"\",\"reference\":\"\",\"customerType\":\"Negocios\",\"subCustomerType\":\"NEGTOP2LIMA\",\"adviser\":\"\",\"state\":true,\"additionalData\":[{\"key\":\"sectorId\",\"value\":\"5cffff1dc5272790a8d1a4fe\"}]}",
+  "n": 440
+ },
+ {
+  "m": "GET",
+  "s": 200,
+  "u": "https://apimngr-genesis-prod.azure-api.net/master/v1/master/typeclients",
+  "post": "",
+  "body": "[{\"id\":\"5d94bedf2b431b6ef0ef47a1\",\"code\":\"EMP\",\"name\":\"EMPRESAS\",\"subTypes\":[{\"id\":null,\"code\":\"EMPCAP\",\"name\":\"EMPRESAS CAPTACIÓN\",\"subTypes\":[]},{\"id\":null,\"code\":\"EMPBRO\",\"name\":\"EMPRESAS BRONCE\",\"subTypes\":[]},{\"id\":null,\"code\":\"EMPORO\",\"name\":\"EMPRESAS ORO\",\"subTypes\":[]},{\"id\":null,\"code\":\"EMPPLA\",\"name\":\"EMPRESAS PLATA\",\"subTypes\":[]},{\"id\":null,\"code\":\"EMPPLATINO\",\"name\":\"EMPRESAS PLATINO\",\"subTypes\":[]},{\"id\":null,\"code\":\"EMPGOB\",\"name\":\"GOBIERNO MEDIO VALOR\",\"subTypes\":[]},{\"id\":null,\"code\":\"EMPGOBALTO\",\"name\":\"EMPRESAS ALTO VALOR\",\"subTypes\":[]},{\"id\":null,\"code\":\"EMPGRR\",\"name\":\"GRUPO ROMERO\",\"subTypes\":[]},{\"id\":null,\"code\":\"EMPCNA\",\"name\":\"CNA CORPORATIVO\",\"subTypes\":[]},{\"id\":null,\"code\":\"EMPNCL\",\"name\":\"NO CLIENTE\",\"subTypes\":[]},{\"id\":null,\"code\":\"DIRECCIONCOMERCIALPRIVADA\",\"name\":\"DIRECCION COMERCIAL PRIVADA\",\"subTypes\":[]},{\"id\":null,\"code\":\"EMPT\",\"name\":\"EMPRESAS T\",\"subTypes\":[]},{\"id\":null,\"code\":\"EMPM\",\"name\":\"EMPRESAS M\",\"subTypes\":[]},{\"id\":null,\"code\":\"EMPE2\",\"name\":\"EMPRESAS E2\",\"subTypes\":[]},{\"id\":null,\"code\":\"EMPE1\",\"name\":\"EMPRESAS E1\",\"subTypes\":[]}]},{\"id\":\"5d94bee02b431b6ef0ef47a2\",\"code\":\"NEG\",\"name\":\"NEGOCIOS\",\"subTypes\":[{\"id\":null,\"code\":\"NEGTOP1\",\"name\":\"TOP 1\",\"subTypes\":[]},{\"id\":null,\"code\":\"NEGTOP2\",\"name\":\"TOP 2\",\"subTypes\":[]},{\"id\":null,\"code\":\"NEGPRE\",\"name\":\"PREMIUM\",\"subTypes\":[]},{\"id\":null,\"code\":\"NEGNEW\",\"name\":\"NUEVOS NEGOCIOS\",\"subTypes\":[]},{\"id\":null,\"code\":\"NEGCNA\",\"name\":\"CNA CORPORATIVO\",\"subTypes\":[]},{\"id\":null,\"code\":\"NEGCLI\",\"name\":\"NO CLIENTE\",\"subTypes\":[]},{\"id\":null,\"code\":\"ALTOVALORLIMA\",\"name\":\"ALTO_VALOR_LIMA\",\"subTypes\":[]},{\"id\":null,\"code\":\"NEGOCIOSPREMIUMLIMA\",\"name\":\"NEGOCIOS_PREMIUM_LIMA\",\"subTypes\":[]},{\"id\":null,\"code\":\"NEGESTRATEGICASNEG\",\"name\":\"ESTRATEGICAS NEGOCIOS\",\"subTypes\":[]},{\"id\":null,\"code\":\"NEGGOBITX\",\"name\":\"GOBITX\",\"subTypes\":[]},{\"id\":null,\"code\":\"NEGEXCLUSIVOPRE\",\"name\":\"EXCLUSIVO PREMIUM\",\"subTypes\":[]},{\"id\":null,\"code\":\"NEGCLASICOPRE\",\"name\":\"CLASICO PREMIUM\",\"subTypes\":[]},{\"id\":null,\"code\":\"NEGTOP2PROVINCIA\",\"name\":\"TOP 2 PROVINCIA\",\"subTypes\":[]},{\"id\":null,\"code\":\"NEGTOP2LIMA\",\"name\":\"TOP 2 LIMA\",\"subTypes\":[]},{\"id\":null,\"code\":\"NEGOCIOSPREMIUMPROVINCIA\",\"name\":\"NEGOCIOS_PREMIUM_PROVINCIA\",\"subTypes\":[]}]},{\"id\":\"5d94bee02b431b6ef0ef47a3\",\"code\":\"NEGEMP\",\"name\":\"NEGOCIOS + EMPRESAS\",\"subTypes\":[]},{\"id\":\"60f6005fbb20300ed843ee72\",\"code\":\"BTC\",\"name\":\"B2C\",\"subTypes\":[{\"id\":null,\"code\":\"BTCPER\",\"name\":\"PERSONA\",\"subTypes\":[]},{\"id\":null,\"code\":\"BTCEMP\",\"name\":\"EMPRENDEDOR\",\"subTypes\":[]}]}]",
+  "n": 2535
+ },
+ {
+  "m": "GET",
+  "s": 200,
+  "u": "https://apimngr-genesis-prod.azure-api.net/api-ne-businesspartner-partymanagement-oc/v1/organization?offset=0&limit=10&organizationIdentification.type=RUC&organizationIdentification.identificationId=20516521938&fields=name,organizationIdentification,partyCharacteristic,status,id",
+  "post": "",
+  "body": "{\"organization\":[{\"id\":\"5eab647c63b15a31506bb4bd\",\"name\":\"CENTRO DE COPIADOS ARTICULOS Y SERVICIOS SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA\",\"status\":\"enabled\",\"organizationIdentification\":{\"identificationId\":\"20516521938\",\"type\":\"RUC\"},\"partyCharacteristic\":[{\"name\":\"productAvailable\",\"value\":\"false\",\"valueTypeString\":\"string\"},{\"name\":\"provider\",\"value\":false,\"valueTypeBoolean\":\"boolean\"},{\"name\":\"debtFinancing\",\"value\":true,\"valueTypeBoolean\":\"boolean\"},{\"name\":\"overdueDebt\",\"value\":false,\"valueTypeBoolean\":\"boolean\"},{\"name\":\"covid\",\"value\":false,\"valueTypeBoolean\":\"boolean\"},{\"name\":\"accessGfm\",\"value\":false,\"valueTypeBoolean\":\"boolean\"},{\"name\":\"downloadMagneticMedia\",\"value\":false,\"valueTypeBoolean\":\"boolean\"},{\"name\":\"attentionGroup\",\"value\":{\"name\":\"POOL USUARIOS\",\"code\":\"POOL_USUARIOS\",\"attentionGroupId\":\"5d95081e03665d753cfcc1d5\"},\"valueTypeObject\":\"AttentionGroup\"},{\"name\":\"typeClient\",\"value\":{\"name\":\"NEGOCIOS\",\"code\":\"NEG\",\"typeClientId\":\"5d94bee02b431b6ef0ef47a2\",\"subType\":{\"name\":\"NUEVOS NEGOCIOS\",\"code\":\"NEGNEW\"}},\"valueTypeObject\":\"TypeClient\"},{\"name\":\"sector\",\"value\":{\"name\":\"OTROS\",\"code\":\"SECTOR009\",\"sectorId\":\"5cffff8dc5272790a8d1a505\",\"subSector\":{\"name\":\"OTROS COMERCIOS\",\"code\":\"SUBSECTOR006\"}},\"valueTypeObject\":\"Sector\"}]}]}",
+  "n": 1276
+ },
+ {
+  "marca": "== CLICK EMPRESA"
+ },
+ {
+  "m": "GET",
+  "s": 200,
+  "u": "https://apimngr-genesis-prod.azure-api.net/api-ne-businesspartner-partymanagement-oc/v1/organization/5eab647c63b15a31506bb4bd",
+  "post": "",
+  "body": "{\"organization\":{\"id\":\"5eab647c63b15a31506bb4bd\",\"name\":\"CENTRO DE COPIADOS ARTICULOS Y SERVICIOS SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA\",\"tradingName\":\"CENTRO DE COPIADOS ARTICULOS Y SERVICIOS SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA\",\"status\":\"enabled\",\"organizationType\":\"company\",\"existsDuring\":{\"startDateTime\":\"2020-04-30T18:51:24.062\",\"endDateTime\":null},\"organizationIdentification\":{\"identificationId\":\"20516521938\",\"type\":\"RUC\"},\"address\":{\"city\":\"Magdalena del Mar\",\"cityCode\":\"150120\",\"stateOrProvince\":\"Lima \",\"stateOrProvinceCode\":\"150100\",\"region\":\"Lima\",\"regionCode\":\"150000\",\"streetType\":\"Av\",\"streetName\":\"JR. TACNA NRO. 785 EX PASCUAL DE VIVERO POR MDO MAGDALENA\",\"streetNr\":\"785\",\"lot\":\"\",\"housingComplex\":\"\",\"housingComplexType\":\"\",\"floor\":\"\",\"addressExtension\":\"JR. TACNA NRO. 785 EX PASCUAL DE VIVERO POR MDO MAGDALENA LIMA - LIMA - MAGDALENA DEL MAR\",\"interior\":\"\",\"block\":\"\",\"additionalData\":[{\"key\":\"manzanaType\",\"value\":\"\"}]},\"partyCharacteristic\":[{\"name\":\"productAvailable\",\"value\":\"false\",\"valueTypeString\":\"string\"},{\"name\":\"provider\",\"value\":false,\"valueTypeBoolean\":\"boolean\"},{\"name\":\"debtFinancing\",\"value\":true,\"valueTypeBoolean\":\"boolean\"},{\"name\":\"overdueDebt\",\"value\":false,\"valueTypeBoolean\":\"boolean\"},{\"name\":\"covid\",\"value\":false,\"valueTypeBoolean\":\"boolean\"},{\"name\":\"accessGfm\",\"value\":false,\"valueTypeBoolean\":\"boolean\"},{\"name\":\"downloadMagneticMedia\",\"value\":false,\"valueTypeBoolean\":\"boolean\"},{\"name\":\"attentionGroup\",\"value\":{\"name\":\"POOL USUARIOS\",\"code\":\"POOL_USUARIOS\",\"attentionGroupId\":\"5d95081e03665d753cfcc1d5\"},\"valueTypeObject\":\"AttentionGroup\"},{\"name\":\"typeClient\",\"value\":{\"name\":\"NEGOCIOS\",\"code\":\"NEG\",\"typeClientId\":\"5d94bee02b431b6ef0ef47a2\",\"subType\":{\"name\":\"NUEVOS NEGOCIOS\",\"code\":\"NEGNEW\"}},\"valueTypeObject\":\"TypeClient\"},{\"name\":\"sector\",\"value\":{\"name\":\"OTROS\",\"code\":\"SECTOR009\",\"sectorId\":\"5cffff8dc5272790a8d1a505\",\"subSector\":{\"name\":\"OTROS COMERCIOS\",\"code\":\"SUBSECTOR006\"}},\"valueTypeObject\":\"Sector\"}],\"additionalData\":[]}}",
+  "n": 2019
+ },
+ {
+  "m": "GET",
+  "s": 200,
+  "u": "https://apimngr-genesis-prod.azure-api.net/user/v5/user/rr-aa/filter?companyId=5eab647c63b15a31506bb4bd&page=0&size=10&profile=NoAdmin&status=true",
+  "post": "",
+  "body": "[{\"id\":\"67f84faec2fbdf5c6f5c9788\",\"person\":{\"id\":\"622a689a39a45a0001b362cb\",\"code\":\"DNI-25718117\",\"firstName\":\"OSCAR\",\"lastName\":\"ZAVALA\",\"surName\":\"CHAVEZ\",\"fullName\":\"OSCAR ZAVALA CHAVEZ\",\"birthDate\":\"Tue May 27 00:00:00 PET 1969\",\"age\":0,\"gender\":\"Masculino\",\"expirationDocumentType\":\"Wed Feb 23 00:00:00 PET 2028\",\"codeOfGeo\":\"240102\",\"documentNumber\":\"25718117\",\"documentType\":{\"name\":null,\"code\":\"DNI\"},\"corporateMail\":\"ccopias.srl@hotmail.com\",\"personalMail\":\"elmagodeozc@hotmail.com\",\"mobileNumber\":\"967138858\",\"extraMobileNumber\":\"967138858\",\"telephoneNumber\":{\"prefix\":null,\"number\":null},\"extraTelephoneNumber\":{\"prefix\":null,\"number\":null},\"companyPartner\":false,\"backOffice\":true,\"highDate\":\"Thu Apr 10 18:10:25 PET 2025\",\"status\":true,\"dateOfIssueDni\":\"Wed Mar 01 00:00:00 PET 2017\",\"workMail\":null,\"workPhone\":null,\"commercialCompany\":null,\"statusReniec\":true,\"reniecValidationDate\":\"2022-03-10\"},\"username\":\"DNI-25718117\",\"status\":true,\"statusLogin\":null,\"portfolio\":{\"rol\":[{\"id\":\"5cc7589200cc68b1752b4f3f\",\"code\":\"COMERCIAL\",\"name\":\"Comercial\",\"type\":\"COMERCIAL\",\"subRoles\":[{\"code\":\"COM03\",\"name\":\"General\"}]},{\"id\":\"5cc758a900cc68b1752b4f63\",\"code\":\"CANAL_ONLINE\",\"name\":\"Canal Online\",\"type\":\"CANAL_ONLINE\",\"subRoles\":[{\"code\":\"CANAL01\",\"name\":\"Decisor\"}]}],\"company\":{\"id\":\"5eab647c63b15a31506bb4bd\",\"typeClient\":{\"name\":\"NEGOCIOS\",\"code\":\"NEG\"},\"typeDocument\":{\"name\":\"RUC\",\"code\":\"RUC\"},\"code\":\"RUC-20516521938\",\"numberDocument\":\"20516521938\",\"address\":{\"tipoAvenida\":\"Av\",\"nombreAvenida\":\"JR. TACNA NRO. 785 EX PASCUAL DE VIVERO POR MDO MAGDALENA\",\"numeroAvenida\":\"785\",\"tipoManzana\":\"\",\"numeroManzana\":\"\",\"lote\":\"\",\"interior\":\"\",\"piso\":\"\",\"tipoUrbanizacion\":\"\",\"nombreUrbanizacion\":\"\",\"reference\":null},\"status\":true,\"legalName\":\"CENTRO DE COPIADOS ARTICULOS Y SERVICIOS SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA\",\"highDate\":\"2020-04-30\",\"name\":\"CENTRO DE COPIADOS ARTICULOS Y SERVICIOS SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA\",\"benefitsMassive\":null,\"attentionGroupSale\":null,\"attentionGroup\":{\"id\":\"5d95081e03665d753cfcc1d5\",\"code\":\"POOL_USUARIOS\",\"name\":\"POOL USUARIOS\"},\"productAvailable\":\"false\",\"provider\":false,\"debtFinancing\":true,\"covid\":false,\"description\":null,\"ubigeo\":{\"department\":{\"name\":\"Lima\",\"code\":\"150000\"},\"province\":{\"name\":\"Lima \",\"code\":\"150100\"},\"district\":{\"name\":\"Magdalena del Mar\",\"code\":\"150120\"}},\"downloadMagneticMedia\":false,\"overdueDebt\":false},\"certificationStatus\":\"1\",\"createDate\":\"10/04/2025 18:09:34\",\"statusRRAA\":true},\"highDateFormatted\":\"10/04/2025 18:09:34\",\"detailPassword\":\"Generar Contraseña\"}]",
+  "n": 2578
+ },
+ {
+  "m": "GET",
+  "s": 200,
+  "u": "https://apimngr-genesis-prod.azure-api.net/user/v5/user/rr-aa/filter?companyId=5eab647c63b15a31506bb4bd&page=0&size=10&profile=NoAdmin&status=true",
+  "post": "",
+  "body": "[{\"id\":\"67f84faec2fbdf5c6f5c9788\",\"person\":{\"id\":\"622a689a39a45a0001b362cb\",\"code\":\"DNI-25718117\",\"firstName\":\"OSCAR\",\"lastName\":\"ZAVALA\",\"surName\":\"CHAVEZ\",\"fullName\":\"OSCAR ZAVALA CHAVEZ\",\"birthDate\":\"Tue May 27 00:00:00 PET 1969\",\"age\":0,\"gender\":\"Masculino\",\"expirationDocumentType\":\"Wed Feb 23 00:00:00 PET 2028\",\"codeOfGeo\":\"240102\",\"documentNumber\":\"25718117\",\"documentType\":{\"name\":null,\"code\":\"DNI\"},\"corporateMail\":\"ccopias.srl@hotmail.com\",\"personalMail\":\"elmagodeozc@hotmail.com\",\"mobileNumber\":\"967138858\",\"extraMobileNumber\":\"967138858\",\"telephoneNumber\":{\"prefix\":null,\"number\":null},\"extraTelephoneNumber\":{\"prefix\":null,\"number\":null},\"companyPartner\":false,\"backOffice\":true,\"highDate\":\"Thu Apr 10 18:10:25 PET 2025\",\"status\":true,\"dateOfIssueDni\":\"Wed Mar 01 00:00:00 PET 2017\",\"workMail\":null,\"workPhone\":null,\"commercialCompany\":null,\"statusReniec\":true,\"reniecValidationDate\":\"2022-03-10\"},\"username\":\"DNI-25718117\",\"status\":true,\"statusLogin\":null,\"portfolio\":{\"rol\":[{\"id\":\"5cc7589200cc68b1752b4f3f\",\"code\":\"COMERCIAL\",\"name\":\"Comercial\",\"type\":\"COMERCIAL\",\"subRoles\":[{\"code\":\"COM03\",\"name\":\"General\"}]},{\"id\":\"5cc758a900cc68b1752b4f63\",\"code\":\"CANAL_ONLINE\",\"name\":\"Canal Online\",\"type\":\"CANAL_ONLINE\",\"subRoles\":[{\"code\":\"CANAL01\",\"name\":\"Decisor\"}]}],\"company\":{\"id\":\"5eab647c63b15a31506bb4bd\",\"typeClient\":{\"name\":\"NEGOCIOS\",\"code\":\"NEG\"},\"typeDocument\":{\"name\":\"RUC\",\"code\":\"RUC\"},\"code\":\"RUC-20516521938\",\"numberDocument\":\"20516521938\",\"address\":{\"tipoAvenida\":\"Av\",\"nombreAvenida\":\"JR. TACNA NRO. 785 EX PASCUAL DE VIVERO POR MDO MAGDALENA\",\"numeroAvenida\":\"785\",\"tipoManzana\":\"\",\"numeroManzana\":\"\",\"lote\":\"\",\"interior\":\"\",\"piso\":\"\",\"tipoUrbanizacion\":\"\",\"nombreUrbanizacion\":\"\",\"reference\":null},\"status\":true,\"legalName\":\"CENTRO DE COPIADOS ARTICULOS Y SERVICIOS SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA\",\"highDate\":\"2020-04-30\",\"name\":\"CENTRO DE COPIADOS ARTICULOS Y SERVICIOS SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA\",\"benefitsMassive\":null,\"attentionGroupSale\":null,\"attentionGroup\":{\"id\":\"5d95081e03665d753cfcc1d5\",\"code\":\"POOL_USUARIOS\",\"name\":\"POOL USUARIOS\"},\"productAvailable\":\"false\",\"provider\":false,\"debtFinancing\":true,\"covid\":false,\"description\":null,\"ubigeo\":{\"department\":{\"name\":\"Lima\",\"code\":\"150000\"},\"province\":{\"name\":\"Lima \",\"code\":\"150100\"},\"district\":{\"name\":\"Magdalena del Mar\",\"code\":\"150120\"}},\"downloadMagneticMedia\":false,\"overdueDebt\":false},\"certificationStatus\":\"1\",\"createDate\":\"10/04/2025 18:09:34\",\"statusRRAA\":true},\"highDateFormatted\":\"10/04/2025 18:09:34\",\"detailPassword\":\"Generar Contraseña\"}]",
+  "n": 2578
+ },
+ {
+  "m": "GET",
+  "s": 200,
+  "u": "https://apimngr-genesis-prod.azure-api.net/user/v5/user/rr-aa/filter-count?companyId=5eab647c63b15a31506bb4bd&page=0&size=10&profile=NoAdmin&status=true",
+  "post": "",
+  "body": "{\"totalElements\":1,\"totalPages\":1}",
+  "n": 34
+ },
+ {
+  "m": "GET",
+  "s": 200,
+  "u": "https://apimngr-genesis-prod.azure-api.net/factory/v1/factory/financial-account-dashboard?companyCode=RUC-20516521938&typeService=MOVIL",
+  "post": "",
+  "body": "[]",
+  "n": 2
+ },
+ {
+  "m": "GET",
+  "s": 200,
+  "u": "https://apimngr-genesis-prod.azure-api.net/factory/v1/factory/financial-account-dashboard?companyCode=RUC-20516521938&typeService=FIJA",
+  "post": "",
+  "body": "[]",
+  "n": 2
+ },
+ {
+  "m": "GET",
+  "s": 200,
+  "u": "https://apimngr-genesis-prod.azure-api.net/user/v5/user/rr-aa/filter-count?companyId=5eab647c63b15a31506bb4bd&page=0&size=10&profile=NoAdmin&status=true",
+  "post": "",
+  "body": "{\"totalElements\":1,\"totalPages\":1}",
+  "n": 34
+ },
+ {
+  "marca": "== PRODUCTOS"
+ },
+ {
+  "m": "GET",
+  "s": 200,
+  "u": "https://apimngr-genesis-prod.azure-api.net/productintegration/v2/api/productintegration/cards?documentType=RUC&documentNumber=20516521938",
+  "post": "",
+  "body": "[{\"product\":\"MONO\",\"total\":2,\"active\":2,\"plans\":[{\"code\":\"93851203\",\"description\":\"InternetMovistarRAAG24\"}]}]",
+  "n": 110
+ },
+ {
+  "m": "GET",
+  "s": 500,
+  "u": "https://apimngr-genesis-prod.azure-api.net/factory/v1/factory/product/digital/cards?documentType=RUC&documentNumber=20516521938&documentTypeUser=OTROS&documentNumberUser=ONECHANNELSACCU",
+  "post": "",
+  "body": "{\"exceptionId\":\"SVR1000\",\"userMessage\":\"Generic Server Fault\",\"exceptionText\":\"Generic Server Error: %s\",\"moreInfo\":\"There was a problem in the Service Providers network that prevented to carry out the request.\",\"httpStatus\":500,\"exceptionDetails\":[{\"component\":\"factory\",\"description\":\"org.springframework.dao.DataAccessResourceFailureException : executeMany; SQL [SELECT group_products AS id, COUNT(*) AS count FROM public.factory WHERE 1=1\\n AND status IN (:status) AND companyCode = :companyCode AND typeService = :typeService AND documentTypeUser = :documentTypeUser AND documentNumberUser = :documentNumberUser GROUP BY group_products]; current transaction is aborted, commands ignored until end of transaction block\"}]}",
+  "n": 726
+ },
+ {
+  "m": "GET",
+  "s": 202,
+  "u": "https://apimngr-genesis-prod.azure-api.net/migration/v1/bashmigratecsv/factory/validate-log?ruc=20516521938",
+  "post": "",
+  "body": "{\"messageResponse\":\"No se ha ejecutado una carga inicial de la empresa solicitada.\",\"object\":true}",
+  "n": 98
+ },
+ {
+  "m": "GET",
+  "s": 500,
+  "u": "https://apimngr-genesis-prod.azure-api.net/factory/v1/factory/filter-combo?page=1&size=10&code=RUC-20516521938&typeCombo=PLAN",
+  "post": "",
+  "body": "{\"exceptionId\":\"SVR1000\",\"userMessage\":\"Generic Server Fault\",\"exceptionText\":\"Generic Server Error: %s\",\"moreInfo\":\"There was a problem in the Service Providers network that prevented to carry out the request.\",\"httpStatus\":500,\"exceptionDetails\":[{\"component\":\"factory\",\"description\":\"org.springframework.dao.InvalidDataAccessApiUsageException : No parameter specified for [code] in query [SELECT name_father_plan AS nameFatherPlan, COUNT(*) AS count FROM public.factory WHERE 1=1\\n AND code = :code ORDER BY count DESC OFFSET :offset LIMIT :limit]\"}]}",
+  "n": 554
+ },
+ {
+  "m": "GET",
+  "s": 200,
+  "u": "https://apimngr-genesis-prod.azure-api.net/factory/v1/factory/filter?page=0&size=10&code=RUC-20516521938",
+  "post": "",
+  "body": "[{\"id\":\"68a3c81272416f0157cd4665\",\"status\":\"ACTIVO\",\"codeProduct\":\"5067194146\",\"nameFatherPlan\":\"INTERNETMOVISTARRAAG24\",\"financialAccount\":\"753147963\",\"product\":\"MONO\",\"productCatalogCode\":null,\"activationDate\":\"14/03/2025\",\"codeOwner\":null,\"fullNameOwner\":null,\"endDateDigital\":null,\"providerServiceId\":null},{\"id\":\"68a3c81272416f0157cd4666\",\"status\":\"ACTIVO\",\"codeProduct\":\"5067194108\",\"nameFatherPlan\":\"INTERNETMOVISTARRAAG24\",\"financialAccount\":\"753155040\",\"product\":\"MONO\",\"productCatalogCode\":null,\"activationDate\":\"14/03/2025\",\"codeOwner\":null,\"fullNameOwner\":null,\"endDateDigital\":null,\"providerServiceId\":null}]",
+  "n": 621
+ },
+ {
+  "m": "PATCH",
+  "s": 404,
+  "u": "https://apimngr-genesis-prod.azure-api.net/api-ne-businesspartner-partymanagement-oc/v1/organization/undefined?fields=name",
+  "post": "{\"organizationPatch\":{\"partyCharacteristic\":[{\"name\":\"productAvailable\",\"value\":false,\"valueTypeString\":\"string\"}]}}",
+  "body": "{\"exceptionId\":\"SVC1006\",\"userMessage\":\"Non Existent Resource ID\",\"exceptionText\":\"Resource undefined does not exist\",\"moreInfo\":\"Reference to a resource identifier which does not exist in the collection/repository referred (e.g.: invalid Id)\",\"httpStatus\":404,\"exceptionDetails\":[{\"component\":\"partymanagement\",\"description\":\"El id undefined no existe.\"}]}",
+  "n": 357
+ },
+ {
+  "m": "GET",
+  "s": 200,
+  "u": "https://apimngr-genesis-prod.azure-api.net/productintegration/v2/api/productintegration/filter?page=1&size=10&serviceType=FIJA&productGrouping=MONO&documentType=RUC&documentNumber=20516521938",
+  "post": "",
+  "body": "{\"products\":[{\"id\":\"196476535\",\"activationDate\":\"14/03/2025\",\"codeProduct\":\"5067194146\",\"financialAccount\":\"753147963\",\"nameFatherPlan\":\"InternetMovistarRAAG24\",\"nameCommercialPlan\":\"InternetMovistarRAAG24 200\",\"product\":\"MONO\",\"status\":\"ACTIVO\",\"legacy\":\"ALDM\",\"startDate\":\"2025-03-14 18:40:48\",\"customerId\":\"121842266\",\"department\":null,\"province\":null,\"district\":null,\"address\":\"AVENIDA, UNIVERSITARIA, 527, SAN MIGUEL, 01, LIMA  01 LIMA Peru\",\"documentNumber\":\"20516521938\",\"documentType\":\"RUC\",\"businessName\":\"CENTRO DE COPIADOS ARTICULOS Y SERVICIOS SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA\",\"serviceType\":\"Fija Aldm\"},{\"id\":\"196495302\",\"activationDate\":\"14/03/2025\",\"codeProduct\":\"5067194108\",\"financialAccount\":\"753155040\",\"nameFatherPlan\":\"InternetMovistarRAAG24\",\"nameCommercialPlan\":\"InternetMovistarRAAG24 200\",\"product\":\"MONO\",\"status\":\"ACTIVO\",\"legacy\":\"ALDM\",\"startDate\":\"2025-03-14 18:02:26\",\"customerId\":\"121842266\",\"department\":null,\"province\":null,\"district\":null,\"address\":\"JIRON, TACNA, 785, MAGDALENA DEL MAR, 01, LIMA  01 LIMA Peru\",\"documentNumber\":\"20516521938\",\"documentType\":\"RUC\",\"businessName\":\"CENTRO DE COPIADOS ARTICULOS Y SERVICIOS SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA\",\"serviceType\":\"Fija Aldm\"}],\"pagination\":{\"totalPages\":1,\"totalElements\":2,\"last\":true,\"first\":true,\"numberOfElements\":2}}",
+  "n": 1341
+ },
+ {
+  "m": "GET",
+  "s": 400,
+  "u": "https://apimngr-genesis-prod.azure-api.net/api-ne-customer-suscriptionalias-oc/v1/tag?nationalId=20516521938&size=2&nationalIdType=RUC",
+  "post": "",
+  "body": "{\"exceptionId\":\"SVC0001\",\"userMessage\":\"Generic Client Error\",\"exceptionText\":\"Generic Client Error\",\"moreInfo\":\"Sin descripcion configurada.\",\"httpStatus\":400,\"exceptionDetails\":[{\"component\":\"suscription\",\"description\":\"No existen registros con los parametros ingresados\"}]}",
+  "n": 276
+ },
+ {
+  "m": "GET",
+  "s": 200,
+  "u": "https://apimngr-genesis-prod.azure-api.net/productintegration/v2/api/productintegration/filter?page=1&size=10&serviceType=FIJA&productGrouping=MONO&documentType=RUC&documentNumber=20516521938",
+  "post": "",
+  "body": "{\"products\":[{\"id\":\"196476535\",\"activationDate\":\"14/03/2025\",\"codeProduct\":\"5067194146\",\"financialAccount\":\"753147963\",\"nameFatherPlan\":\"InternetMovistarRAAG24\",\"nameCommercialPlan\":\"InternetMovistarRAAG24 200\",\"product\":\"MONO\",\"status\":\"ACTIVO\",\"legacy\":\"ALDM\",\"startDate\":\"2025-03-14 18:40:48\",\"customerId\":\"121842266\",\"department\":null,\"province\":null,\"district\":null,\"address\":\"AVENIDA, UNIVERSITARIA, 527, SAN MIGUEL, 01, LIMA  01 LIMA Peru\",\"documentNumber\":\"20516521938\",\"documentType\":\"RUC\",\"businessName\":\"CENTRO DE COPIADOS ARTICULOS Y SERVICIOS SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA\",\"serviceType\":\"Fija Aldm\"},{\"id\":\"196495302\",\"activationDate\":\"14/03/2025\",\"codeProduct\":\"5067194108\",\"financialAccount\":\"753155040\",\"nameFatherPlan\":\"InternetMovistarRAAG24\",\"nameCommercialPlan\":\"InternetMovistarRAAG24 200\",\"product\":\"MONO\",\"status\":\"ACTIVO\",\"legacy\":\"ALDM\",\"startDate\":\"2025-03-14 18:02:26\",\"customerId\":\"121842266\",\"department\":null,\"province\":null,\"district\":null,\"address\":\"JIRON, TACNA, 785, MAGDALENA DEL MAR, 01, LIMA  01 LIMA Peru\",\"documentNumber\":\"20516521938\",\"documentType\":\"RUC\",\"businessName\":\"CENTRO DE COPIADOS ARTICULOS Y SERVICIOS SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA\",\"serviceType\":\"Fija Aldm\"}],\"pagination\":{\"totalPages\":1,\"totalElements\":2,\"last\":true,\"first\":true,\"numberOfElements\":2}}",
+  "n": 1341
+ },
+ {
+  "m": "GET",
+  "s": 400,
+  "u": "https://apimngr-genesis-prod.azure-api.net/api-ne-customer-suscriptionalias-oc/v1/tag?nationalId=20516521938&size=2&nationalIdType=RUC",
+  "post": "",
+  "body": "{\"exceptionId\":\"SVC0001\",\"userMessage\":\"Generic Client Error\",\"exceptionText\":\"Generic Client Error\",\"moreInfo\":\"Sin descripcion configurada.\",\"httpStatus\":400,\"exceptionDetails\":[{\"component\":\"suscription\",\"description\":\"No existen registros con los parametros ingresados\"}]}",
+  "n": 276
+ },
+ {
+  "marca": "== TARJETA MOVILES"
+ }
+]

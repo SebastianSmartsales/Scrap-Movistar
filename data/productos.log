@@ -1,0 +1,15 @@
+Pasadas: ['pasada1.csv', 'rucs.csv']
+12:16:52 RUC en total: 190743; ya consultados: 60
+12:17:01 encabezados de la API renovados
+12:17:56 ⚠️ 429 del servidor: se baja el ritmo a 2.40 llamadas/s
+12:20:14 300/190683 RUC; 1.48 RUC/s; faltan ~35.6 h; errores: 0
+12:21:27 ⚠️ 429 del servidor: se baja el ritmo a 2.13 llamadas/s
+12:23:37 600/190683 RUC; 1.48 RUC/s; faltan ~35.6 h; errores: 0
+12:24:54 ⚠️ 429 del servidor: se baja el ritmo a 1.90 llamadas/s
+12:27:40 900/190683 RUC; 1.39 RUC/s; faltan ~38.0 h; errores: 0
+12:28:16 ⚠️ 429 del servidor: se baja el ritmo a 1.69 llamadas/s
+12:32:10 1200/190683 RUC; 1.31 RUC/s; faltan ~40.3 h; errores: 0
+12:36:13 1500/190683 RUC; 1.29 RUC/s; faltan ~40.7 h; errores: 0
+12:39:38 1800/190683 RUC; 1.32 RUC/s; faltan ~39.8 h; errores: 0
+12:42:23 2100/190683 RUC; 1.37 RUC/s; faltan ~38.2 h; errores: 0
+12:43:05 ⚠️ 429 del servidor: se baja el ritmo a 2.40 llamadas/s
